@@ -1,0 +1,36 @@
+body{
+    background-color:lightgrey;
+  }
+  #img-div {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  
+  #image {
+    max-width: 100%;
+    border: 5px solid black;
+    display: block;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    
+  }
+  h1{
+    text-align:center;
+  }
+  #tribute-link{
+    font-size:40px;
+    
+  }
+  #img-caption{
+    font-size:50px;
+    font-family:roman;
+    text-align:center;
+   
+  }
+  #tribute-info{
+    text-align:center;
+  }
